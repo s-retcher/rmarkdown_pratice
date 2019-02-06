@@ -1,0 +1,62 @@
+---
+title: "Mini-homework 2a: R Markdown practice"
+author: "Spencer Retcher"
+date: "February 5, 2019"
+documentclass: article
+geometry: margin=1in
+fontsize: 11pt
+output:
+  pdf_document:
+    toc: false
+    df_print: kable
+    fig_caption: false
+    number_sections: false
+    dev: pdf
+    highlight: tango
+  html_document:
+    theme: paper
+    self_contained: true
+    toc: false
+    df_print: kable
+    fig_caption: false
+    number_sections: false
+    smart: true
+    dev: svg
+---
+
+<!-- Write your Markdown below this line -->
+# 0.1 &nbsp; &nbsp;Classroom  
+#Online#  
+
+# 0.2 &nbsp; &nbsp;Objectives
+
+By the end of the course, students will be able to:  
+
+* Use GitHub for collaborating on a reproducible research document
+* Obtain, clean, transform, and visualize a dataset using the R programming language
+* Interpret and predict dataset trends using statistical inference and models
+* Critically examine and interpret statistical claims reported in mass media
+
+# 0.3 &nbsp; &nbsp;Textbook
+## 0.3.1 &nbsp; R for Data Science: Import, Tidy, Transform, Visualize, and Model Data
+
+*Hadley Wickham*
+
+*Garrett Grolemund*
+
+This book will teach you how to do data science with R: You'll learn how to get your data into R,
+get it into the most useful structure, transform it, visualise it and model it.
+
+# 0.4 &nbsp; &nbsp;Grading
+
+The grading categories for CDS 101 are the following:
+
+| Category | Weight |
+| :------------ | -----------: | 
+| Participation | 10%
+| Module exercises | 10%
+| Homework | 30% 
+| Midterm project | 25%
+| Final project | 25%
+
+
